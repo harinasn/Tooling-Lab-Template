@@ -1,4 +1,5 @@
-// Elements
+import { RockPaperScissors } from './rock_paper_scissors.js';
+// Elements// Elements
 const welcomeScreen = document.getElementById(`welcome-screen`);
 const gameScreen = document.getElementById(`game-screen`);
 const startGameButton = document.getElementById(`start-game-button`);
