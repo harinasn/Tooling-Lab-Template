@@ -11,9 +11,11 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 - [x] submit the repository link on Canvas
 
 ## Self-Evaluation: 
-how many points out of 10 do you deserve on this assignment: 
+how many points out of 10 do you deserve on this assignment: i think i deserve 10 on 10
 
 ## Self-Reflection:
+I learned how to use the eslint, webpack, jest, cypress
 
 
 ### How long it took me to finish this?
+3hrs
